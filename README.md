@@ -16,6 +16,6 @@
 ## 구현 결과
 
 1. [Part 1 - Basic ML](https://nbviewer.jupyter.org/github/jungwon1413/dl4all_implementation/blob/master/Part%201%20-%20Basic%20ML.ipynb)
-2. Part 2 - DNN
+2. [Part 2 - DNN](https://nbviewer.jupyter.org/github/jungwon1413/dl4all_implementation/blob/master/Part%202%20-%20DNN.ipynb)
 3. Part 3 - CNN
 4. Part 4 - RNN
